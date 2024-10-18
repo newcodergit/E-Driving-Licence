@@ -1,0 +1,61 @@
+/* body {
+    background-color: black;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+
+#search {
+    padding: 8px;
+    font-size: 16px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #ffd700;
+    color: #000;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content {
+    height: 600px;
+    background-image: url("https://img.freepik.com/premium-vector/road-with-white-arrow-gray-background_1292944-14546.jpg?ga=GA1.1.1262595175.1727936533&semt=ais_hybrid");
+
+} */
